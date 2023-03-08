@@ -1,13 +1,7 @@
 # main links links
 main:
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Personal"
+    url: /pesonal/    
     
   - title: "CV"
-    url: /cv/
+    url: /files/20195108_cv.pdf
