@@ -1,7 +1,7 @@
 # main links links
-main:
-  - title: "Personal"
-    url: /pesonal/    
-    
+main: 
   - title: "CV"
     url: /files/20195108_cv.pdf
+    
+  - title: "Personal"
+    url: /personal/ 
