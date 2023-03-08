@@ -18,5 +18,5 @@ Returning to school has been a bit challenging, as I feel like I'm lacking knowl
 
 Courework
 ======
--EECS course: Data structure, Introduction to Algorithm, Digital Design, Computer Architecture
--Mathematics course: Calculus, Multivariable Calculus, Linear Algebra, Differential Equations, Probability and Statistics, Complex Analysis.
+* EECS course: Data structure, Introduction to Algorithm, Digital Design, Computer Architecture
+* Mathematics course: Calculus, Multivariable Calculus, Linear Algebra, Differential Equations, Probability and Statistics, Complex Analysis.
