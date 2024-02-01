@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about
 title: "Hello! I'm Taejun Um"
 excerpt: "About me"
 author_profile: true
