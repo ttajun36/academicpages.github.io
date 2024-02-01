@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Taejun Um's Wbpage"
+title                    : "Taejun Um"
 title_separator          : "-"
 name                     : &name "Taejun Um"
 description              : &description ""
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Taejun Um"
   avatar           : "profile.png"
-  bio              : "Passionate student"
+  bio              : "웃긴 사람"
   location         : "Gwangju, South Korea"
   employer         :
   pubmed           :
