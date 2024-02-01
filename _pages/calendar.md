@@ -1,8 +1,11 @@
 ---
 layout: archive
 title: "Calendar"
-permalink: /calendar/
+permalink: /
 author_profile: true
+redirect_from: 
+  - /calendar/
+  - /maininfo.html
 ---
 
 <!-- Google Calendar Appointment Scheduling begin -->
