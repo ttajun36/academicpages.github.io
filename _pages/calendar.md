@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 redirect_from: 
   - /calendar/
-  - /maininfo.html
+  - /calendar.html
 ---
 
 <!-- Google Calendar Appointment Scheduling begin -->
