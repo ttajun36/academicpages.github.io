@@ -1,8 +1,11 @@
 ---
 layout: archive
 title: "Main"
-permalink: /maininfo/
+permalink: /
 author_profile: true
+redirect_from: 
+  - /maininfo/
+  - /maininfo.html
 ---
 
 자기소개
