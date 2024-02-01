@@ -1,8 +1,11 @@
 ---
-layout: archive
+permalink: /
 title: "Personal"
-permalink: /personal/
+excerpt: "About me"
 author_profile: true
+redirect_from: 
+  - /personal/
+  - /personal.html
 ---
 
 Interested In
