@@ -1,10 +1,9 @@
 ---
 layout: archive
 title: "Main"
-permalink: /
+permalink: /maininfo/
 author_profile: true
 redirect_from: 
-  - /maininfo/
   - /maininfo.html
 ---
 
