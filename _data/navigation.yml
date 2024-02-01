@@ -1,10 +1,13 @@
 # main links links
 main: 
-  - title: "CV"
-    url: /files/20195108_cv.pdf
+  #- title: "CV"
+  #  url: /files/20195108_cv.pdf
     
   - title: "Personal"
     url: /personal/ 
 
-  - title: "Demo"
-    url: /files/backend.pdf
+  #- title: "Demo"
+  #  url: /files/backend.pdf
+
+  - title: "Personal"
+    url: /calendar/ 
