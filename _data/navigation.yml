@@ -3,11 +3,14 @@ main:
   #- title: "CV"
   #  url: /files/20195108_cv.pdf
     
-  - title: "Personal"
-    url: /personal/ 
+  #- title: "Personal"
+  #  url: /personal/ 
 
   #- title: "Demo"
   #  url: /files/backend.pdf
 
-  - title: "Personal"
+  - title: "Main"
+    url: /maininfo/ 
+
+  - title: "Calendar"
     url: /calendar/ 
